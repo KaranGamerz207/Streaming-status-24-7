@@ -1,2 +1,2 @@
-
-# A Simple Code that Help you to Keep your Discord Account Online 24/7 With a Streaming status and a Link.
+# 24/7 Streaming status
+A Simple Code that Help you to Keep your Discord Account Online 24/7 With a Streaming status and a Link.
